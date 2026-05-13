@@ -68,5 +68,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fahad-iqbal&theme=highcontrast&hide_border=true&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=fahadiqbal-01&theme=highcontrast&hide_border=true&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="100%" />
 </div>
