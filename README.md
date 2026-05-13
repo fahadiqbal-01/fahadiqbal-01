@@ -31,6 +31,8 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
